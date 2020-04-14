@@ -1,7 +1,7 @@
 <img alt="GoStack Banner" src="./banner.png" />
 
 <h3 align="center">
-  Challenge 04: React-Native Concepts
+  Challenge 05: First Node.js Project
 </h3>
 
 <p align="center">
